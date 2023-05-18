@@ -13,10 +13,10 @@ export default function FirstPost() {
       <h2>
         <Link href="/">Back to home</Link>
         <Image
-              src="/../public/images/placeholder.jpeg" // Route of the image file
+              src="/../public/images/placeholder.jpg" // Route of the image file
               height={144} // Desired size with correct aspect ratio
               width={144} // Desired size with correct aspect ratio
-              alt="Your Name"
+              alt="it me"
         />
       </h2>
     </Layout>
